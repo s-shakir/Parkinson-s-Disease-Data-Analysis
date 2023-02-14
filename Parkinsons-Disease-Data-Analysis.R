@@ -3,7 +3,7 @@ library(readr)
 library(MASS) 
 #for ploting linear model that remoces the outliers
 
-dataset <- read.csv("F:\\1.Masters in Data Science (Fast)\\Stats\\Assignments\\assignment no 2\\DiseaseDataset.csv")
+dataset <- read.csv("https://raw.githubusercontent.com/s-shakir/Parkinson-s-Disease-Data-Analysis/main/DiseaseDataset.csv")
 View(dataset)
 
 # SCATTER PLOTS #
